@@ -1,4 +1,4 @@
-package com.demisgomes.validatorvalue
+package com.demisgomes.validatorvalue.domain
 
 import javax.validation.constraints.*
 
